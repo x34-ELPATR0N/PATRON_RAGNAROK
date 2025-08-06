@@ -1,21 +1,37 @@
-𝐃𝐨𝐒 𝐓𝐨𝐨𝐥 𝐏𝐚𝐭𝐫𝐨𝐧 𝐑𝐚𝐠𝐧𝐚𝐫𝐨𝐤
+# 🛡️ PATRON_RAGNAROK
 
-Esta ferramenta conta com um design de interface completo com papel de parede & opções
-a ferramenta possui 3 modulos de atack 2 camada 7 e 1 de camada 4
-seleção de alvo, e quantidade de threads.
+Ferramenta de ataque DoS com interface gráfica otimizada para Linux. Desenvolvida com foco em praticidade, eficiência e controle total dos módulos de ataque.
 
-𝟏-𝐇𝐭𝐭𝐩 𝐟𝐥𝐨𝐨𝐝
-𝟐- 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐚𝐭𝐮𝐫𝐚𝐭𝐢𝐨𝐧
-𝟑- 𝐒𝐥𝐨𝐰 𝐄𝐱𝐡𝐚𝐮𝐬𝐭𝐢𝐨𝐧
-𝟒- 𝐟𝐮𝐬ã𝐨 𝐝𝐞 𝐭𝐨𝐝𝐨𝐬 𝐨𝐬 𝐦𝐨𝐝𝐮𝐥𝐨𝐬
+---
 
-A interface foi feita para ser facil de conduzir o poder da ferramenta sem precisar de muito trabalho
-foi pensada em praticidade e eficiencia.
+## 🎯 Funcionalidades
 
-Ferramenta feita apenas para Linux pode funcionar em termux mas a interface ficará maior que a tela.
-(necessario root)
+- Interface com design completo e papel de parede integrado
+- Seleção de alvo e configuração de quantidade de threads
+- 3 módulos de ataque disponíveis:
+  1. **HTTP Flood** (Camada 7)
+  2. **Application Saturation** (Camada 7)
+  3. **Slow Exhaustion** (Camada 7)
+  4. **Fusão de todos os módulos** (Combinação total)
 
-𝙢𝙤𝙙𝙤 𝙙𝙚 𝙞𝙣𝙨𝙩𝙖𝙡𝙖çã𝙤: 
-git clone https://github.com/x34-ELPATR0N/PATRON_RAGNAROK.git
+---
+
+## 🖥️ Interface
+
+A interface foi projetada para ser intuitiva e fácil de usar, permitindo conduzir o poder da ferramenta sem esforço técnico avançado. Ideal para quem busca agilidade e desempenho.
+
+---
+
+## ⚙️ Requisitos
+
+- Sistema operacional: **Linux**
+- Pode funcionar em **Termux** (necessário root), mas a interface pode ultrapassar o tamanho da tela.
+
+---
+
+## 🚀 Instalação
+
+```bash
+git clone https://github.com/x34-ELPATRON/PATRON_RAGNAROK.git
 cd PATRON_RAGNAROK
 sudo python3 patron_ragnarok.py
