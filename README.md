@@ -27,7 +27,7 @@ Cada módulo representa uma técnica específica que pode ser combinada para sim
 
 🖥️ INTERFACE
 A interface do PATRON_RAGNAROK é baseada em terminal, com menus interativos e navegação intuitiva.
-O usuário pode selecionar módulos, configurar parâmetros e visualizar resultados diretamente na tela.
+O usuário pode selecionar módulos, configurar threads.
 Tudo foi pensado para facilitar o uso sem comprometer a flexibilidade.
 ```
 
