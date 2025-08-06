@@ -15,7 +15,7 @@ sudo python3 patron_ragnarok.py
 
 ---
 
-## 🧠 Sobre o Projeto + 🖥️ Interface + 📢 Aviso Legal + 🤝 Contribuição + 📬 Contato + 🧩 Licença
+## 🧠 Sobre o Projeto 
 
 ```text
 🧠 SOBRE O PROJETO
