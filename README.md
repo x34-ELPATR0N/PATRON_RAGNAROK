@@ -39,16 +39,7 @@ Este projeto é distribuído apenas para fins educacionais e de pesquisa.
 O uso indevido da ferramenta é de responsabilidade exclusiva do usuário.
 Não nos responsabilizamos por qualquer dano causado.
 
-🤝 CONTRIBUIÇÃO
-Contribuições são bem-vindas!
-Se você deseja melhorar a ferramenta, corrigir bugs ou adicionar novos módulos,
-sinta-se à vontade para me enviar mensagem no Discord: elpatron0x7
-
 📬 CONTATO
 Discord: elpatron0x7
 GitHub: https://github.com/x34-ELPATRON
 
-🧩 LICENÇA
-Distribuído sob a licença MIT.
-Consulte o arquivo LICENSE para mais detalhes.
-```
