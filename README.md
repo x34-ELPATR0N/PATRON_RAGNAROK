@@ -1,7 +1,6 @@
 # 🛡️ PATRON_RAGNAROK
 
-Ferramenta ofensiva para automação de ataques em ambientes controlados, voltada para fins educacionais e de pesquisa.  
-Ideal para profissionais de segurança, entusiastas de pentest e estudantes que desejam explorar técnicas avançadas de automação.
+Ferramenta De DoS feita para ser pratica e facil de compreenção para iniciantes e insusiastas da area de denial of service.
 
 ---
 
